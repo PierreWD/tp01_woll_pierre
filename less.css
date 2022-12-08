@@ -1,0 +1,16 @@
+@media screen and (max-width: 300px) {
+}
+@media screen and (min-width: 300px) {
+}
+body {
+  background-color: midnightblue;
+}
+h1 {
+  color: white;
+}
+input {
+  margin: auto;
+}
+.redAlert {
+  background-color: red;
+}
